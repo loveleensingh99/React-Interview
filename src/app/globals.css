@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+
+input[type="text"]
+{
+  color:green;
+  border:blue
+}
